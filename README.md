@@ -1,4 +1,4 @@
-# ftp.halifax.RWTH-Aachen.DE
+# [ftp.halifax.RWTH-Aachen.DE](https://ftp.halifax.rwth-aachen.de/)
 
 Source: [https://ftp.halifax.rwth-aachen.de/](https://ftp.halifax.rwth-aachen.de/)
 
